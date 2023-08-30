@@ -1,22 +1,23 @@
 # Carina Lee
 
-[Example Report 1](weekly-reports/report-1.md)
+
+[Report 1: Learnings and Experiences in Makerspace](weekly-reports/report-1.md)
 ---
 
-Either way, it's time to start making this space your own! If you want to save these instructions -- Don't worry, I already copied them over to another file for you [here.](welcomeREADME.md) So feel empowered to delete everything in this README.md and start documenting! 
+### Exploring and Learning
 
-sparkles,
+This week, I primarily delved into operating the **lasercutter** in the makerspace, while also acquainting myself with the various tools available there. As a result, walking into the makerspace no longer leaves me feeling lost or out of place. My prior experience with Rhino and Grasshopper during my undergrad studies made the software aspect of this week's project not much difficulty.
 
-your TDF TA, shm :sparkles:
+### Assignment Collaboration 
 
-PS: let me know if you have any questions!!
+In this assignment, I worked together with a girl from the MDes program, whose name is Stephanie. We first opened the 'make flat 3dm file' for the phone stand provided in class using **Rhino**, and then imported it into **Adobe Illustrator**.
 
---- 
-PPS: 
-## Quick Links, compiled here for your convenience: ##
+### Working on Lasercutting the Phone Stand
 
-- [TDF Wiki](https://github.com/Berkeley-MDes/desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/folders/1OjFgu4llHn-2WayQFVWRKFyOkQ_WaQRx?usp=drive_link) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1528355) - where the grading happens
+Because the plywood sold in the makerspace is **30”x18”**, there is enough space to print phone stands for four people. So, Stephanie and I, along with two other MDes students, adjusted the file together in Illustrator. We created a board the same size as the plywood and copied five sets of the phone stand design inside it. One set is for backup, in case some students' lasercut fails. 
+
+### Personal Reflection
+
+The thing that made me happiest about this week's assignment is the good atmosphere among the **MDes students**. Although we may struggle when encountering things we don't know how to do, the mutual help among classmates makes me feel very warm.
 
 
