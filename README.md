@@ -10,6 +10,9 @@ This week, I primarily delved into operating the **lasercutter** in the makerspa
 In this assignment, I worked together with a girl from the MDes program, whose name is Stephanie. We first opened the 'make flat 3dm file' for the phone stand provided in class using **Rhino**, and then imported it into **Adobe Illustrator**.
 
 ![IMG_6207](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/02437da0-3bf0-4d35-8642-2944c6eda30e)
+<img width="1728" alt="Screen Shot 2023-08-31 at 12 02 58 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/04a25171-0f7d-4a11-95de-14beefa2a61f">
+<img width="1728" alt="Screen Shot 2023-08-31 at 12 05 12 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/30b60754-593e-4e3f-9e21-d7c462338e16">
+
 
 ### Working on Lasercutting the Phone Stand
 Because the plywood sold in the makerspace is **30”x18”**, there is enough space to print phone stands for four people. So, Stephanie and I, along with two other MDes students, adjusted the file together in Illustrator. We created a board the same size as the plywood and copied five sets of the phone stand design inside it. One set is for backup, in case some students' lasercut fails. 
