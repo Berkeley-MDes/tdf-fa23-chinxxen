@@ -14,6 +14,7 @@ In this assignment, I worked together with a girl from the MDes program, whose n
 ### Working on Lasercutting the Phone Stand
 Because the plywood sold in the makerspace is **30”x18”**, there is enough space to print phone stands for four people. So, Stephanie and I, along with two other MDes students, adjusted the file together in Illustrator. We created a board the same size as the plywood and copied five sets of the phone stand design inside it. One set is for backup, in case some students' lasercut fails. 
 
+![IMG_6205](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/38f96647-014e-420c-8f4b-8f718d6c5a4f)
 ![IMG_6210](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/df0ef128-47c1-4d8a-9929-42ffab79f822)
 
 The plywood board we used was 1/4" thick. However, a fellow student warned us that he had issues with cutting all the way through just yesterday. To mitigate this, we adjusted the lasercutter settings to treat the material as if it were 0.255" thick, aiming to ensure a complete cut. Despite this precaution, we encountered some issues because the plywood board was not perfectly flat; it was somewhat curved. As a result, a few cuts didn't go all the way through.
