@@ -6,6 +6,8 @@ This week, I started to playing around and developed the given design file.  To 
 
 ### Sketching 
 From this observation, I started to sketch out a few design solutions that could help improve the issue. 
+![Screen_Shot_2023-09-05_at_11 07 34_PM](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4193682e-a3ff-4e6e-a317-86f28530f6aa)
+
 
 ### Modifying the Model
 <img width="1728" alt="Screen Shot 2023-09-05 at 10 11 44 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ae7b61ea-dc88-4e24-b9bd-524b59928163">
