@@ -1,8 +1,25 @@
-# Report 2: Learnings and Experiences in Makerspace - Week of 09/07/2023 #
+# Report 2: Solving Problem - Ideate/Design with Digital Tool - Week of 09/07/2023 #
 
-This week, I start to explore and developed the given contenct, one biggest issue I realized from last week's lasercut model is that **the phone holder will coverup the front screen of the phone, making user unable to access their phone while using the phone holder**.
+This week, I started to playing around and developed the given design file.  To start with, one biggest issue I realized from last week's lasercut model is that **the phone holder will coverup the front screen of the phone, making user unable to access their phone while using the phone holder**.
 
+![ffe727c92f5bb3e43f381f9bf3d61ed9](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6c3a30d8-6356-40dd-ab6f-9ba728b1492b)
+
+### Sketching 
 From this observation, I started to sketch out a few design solutions that could help improve the issue. 
+
+### Modifying the Model
+<img width="1728" alt="Screen Shot 2023-09-05 at 10 11 44 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ae7b61ea-dc88-4e24-b9bd-524b59928163">
+
+First I adjusted the screen void height to 83, which seems like there will be no void from blobking the phone, but soon I realized that this might **resultes in unsecure locking**, the phone might fall off from the front.
+
+<img width="1728" alt="Screen Shot 2023-09-05 at 10 12 05 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/8fa6e0e7-4350-406c-af6c-e48e16de3263">
+
+Then I adjusted the screen void height to 78, with **little bit of void**, and I measure my phone that this void height will not cover up any phone screen, will only hold the phone securely by **locking the bezel**. I am satisified. 
+
+<img width="1728" alt="Screen Shot 2023-09-05 at 10 35 09 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ed250336-352f-4223-97e1-d94b5ea77149">
+
+Then I start thinking that the **original spacing for the supports are too narrow**, which from first week's lasercut model, the phone might **tilted**. So, I adjusted the spacing to 0.35, giving the support more stability for the phone. 
+
 
 
 ---
