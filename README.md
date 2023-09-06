@@ -1,7 +1,14 @@
+# Report 2: Learnings and Experiences in Makerspace - Week of 09/07/2023 #
 
-# Report 1: Learnings and Experiences in Makerspace - Week of 08/29/2023 #
+This week, I start to explore and developed the given contenct, one biggest issue I realized from last week's lasercut model is that **the phone holder will coverup the front screen of the phone, making user unable to access their phone while using the phone holder**.
+
+From this observation, I started to sketch out a few design solutions that could help improve the issue. 
+
 
 ---
+
+# Report 1: Learnings and Experiences in Makerspace - Week of 08/31/2023 #
+
 
 ### Exploring and Learning
 This week, I primarily delved into operating the **lasercutter** in the makerspace, while also acquainting myself with the various tools available there. As a result, walking into the makerspace no longer leaves me feeling lost or out of place. My prior experience with Rhino and Grasshopper during my undergrad studies made the software aspect of this week's project not much difficulty.
