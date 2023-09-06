@@ -20,9 +20,24 @@ Then I adjusted the screen void height to 78, with **little bit of void**, and I
 
 <img width="1728" alt="Screen Shot 2023-09-05 at 10 35 09 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ed250336-352f-4223-97e1-d94b5ea77149">
 
-Then I start thinking that the **original spacing for the supports are too narrow**, which from first week's lasercut model, the phone might **tilted**. So, I adjusted the spacing to 0.35, giving the support more stability for the phone. 
+Then I start thinking that the **original spacing for the supports are too narrow**, which from first week's lasercut model, the phone might **tilted**. So, I adjusted the spacing to 0.35, giving the support more stability for the phone.
 
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 29 29 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/7f129320-33be-4ada-b904-4646f8aec489">
 
+Soon I realized that I usually like to use phone stand when I watch TikTok videos, so I wish this **phone stand can also held the phone vertically**. I was not pro at Grasshopper, took me a few hours trying to get the top void be cutted out, I then try to bake the models, and trim it in Rhino.
+
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 30 47 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5ac5bf74-d27c-465e-98fe-e315a8f3cbaf">
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 30 47 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/406ca983-f358-4399-bbe1-32a64862731a">
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 31 27 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4486e83c-66f0-428a-a618-6ae3ff4c3a2b">
+I trimmed the top void with shape make 3D and Boolean 2 Objects. 
+
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 31 51 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/44680ed4-94ab-4c11-84c0-e3cf9b38639d">
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 35 12 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/238087c1-7b73-48b1-b2dd-8e1afb6d1256">
+Then I added on the filletedge for the shapes to make it looks less sharp and more user-friendly. 
+
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 40 15 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/b8a2dccd-acfc-4d7c-b817-111fdfc3cabd">
+I exported the Make2D contour of the four lasercut pieces into Ai with the correct size. 
+<img width="1728" alt="Screen Shot 2023-09-06 at 12 43 48 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e0a232ea-17ec-4c81-ac06-fcad81ff578d">
 
 ---
 
