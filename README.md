@@ -8,7 +8,6 @@ This week, I started to playing around and developed the given design file.  To 
 From this observation, I started to sketch out a few design solutions that could help improve the issue. 
 ![Screen_Shot_2023-09-05_at_11 07 34_PM](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4193682e-a3ff-4e6e-a317-86f28530f6aa)
 
-
 ### Modifying the Model
 <img width="1728" alt="Screen Shot 2023-09-05 at 10 11 44 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ae7b61ea-dc88-4e24-b9bd-524b59928163">
 
@@ -38,6 +37,15 @@ Then I added on the filletedge for the shapes to make it looks less sharp and mo
 <img width="1728" alt="Screen Shot 2023-09-06 at 12 40 15 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/b8a2dccd-acfc-4d7c-b817-111fdfc3cabd">
 I exported the Make2D contour of the four lasercut pieces into Ai with the correct size. 
 <img width="1728" alt="Screen Shot 2023-09-06 at 12 43 48 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e0a232ea-17ec-4c81-ac06-fcad81ff578d">
+
+### Reflections
+
+This week was centered around iterative refinement of the phone holder design, particularly addressing the critical issue of screen obstruction noted in the last week's lasercut prototype. My first design alteration involved raising the screen void height to 83 units; although this eliminated screen obstruction, it compromised device stability. A subsequent fine-tuning to a height of 78 units achieved a satisfactory balance between screen visibility and secure bezel-locking. The support spacing was also adjusted to 0.35 units to correct the tilting issue observed in the initial model. In addition to horizontal viewing, I wanted the holder to support vertical orientation, particularly for applications like watching TikTok videos. Despite my limited expertise in Grasshopper, several hours were invested to modify the top void. Eventually, I opted to bake the model and perform the trim operation in Rhino, employing the 'Make 3D' and 'Boolean 2 Objects' functionalities. Filleted edges were introduced to mitigate any sharpness, enhancing user safety. Finally, the revised 2D contours of all lasercut pieces were exported into Adobe Illustrator to ensure dimensional accuracy for subsequent fabrication. Although the week presented its set of challenges, especially in Grasshopper, it was overall a productive period that has moved the project in a positive direction.
+
+### Speculations
+
+During my undergraduate education, I frequently engaged with both Rhino and Grasshopper as integral components of my design toolkit. I found that Grasshopper presents a steeper learning curve than Rhino, given its precision-oriented capabilities. Historically, I gravitated towards SolidWorks for tasks demanding high levels of accuracy. Looking ahead, I anticipate the integration of artificial intelligence to facilitate automated design recommendations. I also foresee the standardization of real-time material stress analytics and the incorporation of virtual reality for more immersive prototyping and user experience evaluations. Generative design, an emerging trend as of 2021, offers promising avenues for automating optimal design solutions through constraint-based inputs, thereby significantly enhancing the design workflow.
+
 
 ---
 
