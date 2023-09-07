@@ -38,6 +38,12 @@ Then I added on the filletedge for the shapes to make it looks less sharp and mo
 I exported the Make2D contour of the four lasercut pieces into Ai with the correct size. 
 <img width="1728" alt="Screen Shot 2023-09-06 at 12 43 48 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e0a232ea-17ec-4c81-ac06-fcad81ff578d">
 
+### Lasercut
+![IMG_6705](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4a4d857b-4f7b-46d2-adbc-777064016e9f)
+![IMG_6707](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/28eb6fe1-8ad9-45c5-a270-1f0526fc9466)
+![IMG_6708](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/0500f964-00a8-4800-a386-890bfa2e136a)
+![IMG_6709](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/0866d7d2-4b58-4af6-b1fe-629fc681d1b6)
+
 ### Reflections
 
 This week was centered around iterative refinement of the phone holder design, particularly addressing the critical issue of screen obstruction noted in the last week's lasercut prototype. My first design alteration involved raising the screen void height to 83 units; although this eliminated screen obstruction, it compromised device stability. A subsequent fine-tuning to a height of 78 units achieved a satisfactory balance between screen visibility and secure bezel-locking. The support spacing was also adjusted to 0.35 units to correct the tilting issue observed in the initial model. In addition to horizontal viewing, I wanted the holder to support vertical orientation, particularly for applications like watching TikTok videos. Despite my limited expertise in Grasshopper, several hours were invested to modify the top void. Eventually, I opted to bake the model and perform the trim operation in Rhino, employing the 'Make 3D' and 'Boolean 2 Objects' functionalities. Filleted edges were introduced to mitigate any sharpness, enhancing user safety. Finally, the revised 2D contours of all lasercut pieces were exported into Adobe Illustrator to ensure dimensional accuracy for subsequent fabrication. Although the week presented its set of challenges, especially in Grasshopper, it was overall a productive period that has moved the project in a positive direction.
