@@ -75,6 +75,9 @@ I printed the bed and the leg seperatly, and glue them together. So do not need 
 
 ![IMG_6985](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/132975d8-d975-486e-bdf8-4d70b8709bdf)
 Showcase! Using it right now(waiting for the duvet)!
+![IMG_7076](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/f091967f-0fd5-4dfa-936f-3e4ed48f6a8c)
+![IMG_7072](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/40db1c4f-c675-4612-a0ff-a0cabcd7b081)
+
 
 
 ### Conclusion
