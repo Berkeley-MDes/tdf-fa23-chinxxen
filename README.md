@@ -1,3 +1,51 @@
+# Report 3: Designing My Own Phone Stand - Grasshopper + 3D Print - Week of 09/14/2023 #
+
+This week, I designed and built a brand-new phone stand from scratch, tailoring it to my own specifications. After creating the CAD models, I 3D-printed prototypes to visualize the end result and conduct user testing.
+
+### Design Prompt
+I'm looking to design a phone stand that addresses a specific problem I've been struggling with. While I don't usually need a phone stand during the day, however, **I find it hard to put my phone down when I'm in bed**. Despite feeling exhausted, I often catch myself aimlessly scrolling through my device. This habit has negatively impacted my sleep quality and even led to occasional insomnia. **My goal is to create a design that will help me disconnect from my phone more easily while in bed.**
+
+### Sketching
+
+During the ideation phase, it occurred to me: **why not create a bed for my phone?** Personifying my phone in this way could serve as a **visual reminder that just as my phone needs rest, so do I**. With this concept in mind, I grabbed my iPad and started sketching out various designs and ideas.
+![Untitled_Artwork 17](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d68aad90-9ebd-4cd5-8f95-990971e13973)
+I ultimately chose to go with Style 1, primarily because it would be **more material-efficient and time-saving** to 3D print.
+
+![1](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d2b5b239-6c23-4766-af62-56ce45197fde)
+![2](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/c568c1b5-678c-49c8-98a2-36423a1d1e51)
+![3](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/10b0b3e0-5cfe-43f4-843a-f5976c2a9eb5)
+![4](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/616323ec-f02a-4814-bf73-3b1b88a366d4)
+![1-5](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/eca7ecf2-6b32-4480-8498-27ef62b7a109)
+![1-6](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/cde1c4c5-4f63-4be7-b7a0-73e525340d8d)
+![1-7](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/31e7d637-2f6c-4cf4-a539-bf7904993f25)
+![1-8](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9293c7d1-3e70-41a6-8cef-ae6d540f3092)
+![1-9](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/80584dc0-9263-4867-8cca-33eb86ad993d)
+![1-16](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/a94baf8b-87af-4884-bccb-3deb4d7fbbd9)
+![1-10](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/81dbad6a-d7ce-4022-ae8a-8c89b39e116f)
+![1-11](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3d3b5656-2f2e-4692-b124-1803fa6249fd)
+![1-12](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/feb4e3e2-943c-4813-9700-293f8a898a5e)
+![1-13](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e43d16df-4662-40bb-b74d-385f7db806f5)
+![1-14](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/810ded81-1d8e-4866-84bd-f9757a2ef345)
+![1-15](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/8c6fcd0c-3e20-4728-a982-869196726321)
+![1-16](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3666abd3-1d66-4d19-a2f3-32d0fb0d4d81)
+![1-17](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/0a50f8ee-014e-44a4-8d7d-f56f0669e1bd)
+![1-18](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/afa217fc-ac06-4afb-8fb7-aa94597d20f0)
+![1-19](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/bee2ff60-7b0c-43f0-a9d9-50d81df3079f)
+![1-20](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/dd30638f-23c3-449a-a014-213e6a8d3ed4)
+![1-21](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/19d3f7b7-819f-49d1-9a0c-87fe532855c0)
+![1-22](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3d5dba0e-fea5-4360-8e3a-802f229fa565)
+![1-23](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/81abfc80-752f-4174-aa98-c8d1bb5a011a)
+![1-24](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5a0255c6-86e1-4058-bb14-95386ef19c8a)
+![1-25](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ee09f38a-fec4-45ac-95a7-e4b54dc31a37)
+![1-26](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/474e23f1-0122-48c6-a238-adbb0f085180)
+![1-27](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5c3b2f9a-82f5-455a-b184-b6af416c39c0)
+![1-28](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/2944f323-878e-4bdc-9730-d2498cb59625)
+
+
+
+
+---
+
 # Report 2: Solving Problem - Ideate/Design with Digital Tool - Week of 09/07/2023 #
 
 This week, I started to playing around and developed the given design file.  To start with, one biggest issue I realized from last week's lasercut model is that **the phone holder will coverup the front screen of the phone, making user unable to access their phone while using the phone holder**.
