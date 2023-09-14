@@ -14,22 +14,34 @@ I ultimately chose to go with Style 1, primarily because it would be **more mate
 
 **Mattress/Bedboard**
 ![1](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d2b5b239-6c23-4766-af62-56ce45197fde)
+First I used **navigation** + **Construct Domain** + **Rectangle** to get the shape of the mattress. 
 ![2](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/c568c1b5-678c-49c8-98a2-36423a1d1e51)
+Then I used **fillet** to give it a soft edge.
 ![3](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/10b0b3e0-5cfe-43f4-843a-f5976c2a9eb5)
+Then I **Extrude** the filleted rectangle. 
 ![4](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/616323ec-f02a-4814-bf73-3b1b88a366d4)
+I used **Cap Holes** to build the top plane and bottom plane of the mattress, and make it solid. Then I used **FilletEdge** to make it softer.
 ![1-5](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/eca7ecf2-6b32-4480-8498-27ef62b7a109)
 ![1-6](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/cde1c4c5-4f63-4be7-b7a0-73e525340d8d)
+I used **Debrep** + **CurveMiddle** + **Deconstruct** + **SortList** + **List Item** + **Curve Midddle** + **Move** to find the plane of the Bedboard. 
 ![1-7](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/31e7d637-2f6c-4cf4-a539-bf7904993f25)
+I used **Rectangle** + **Explode** + **Cull Index** + **Join Curve** + **Filllet** to get the contour of the bedboard.
 ![1-8](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9293c7d1-3e70-41a6-8cef-ae6d540f3092)
 ![1-9](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/80584dc0-9263-4867-8cca-33eb86ad993d)
 ![1-16](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/a94baf8b-87af-4884-bccb-3deb4d7fbbd9)
+Then I used **Boundary Surface** + **Extrude** to get the thickness of the bedboard.
 ![1-10](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/81dbad6a-d7ce-4022-ae8a-8c89b39e116f)
+I **Fillet** the edge to get the soft curve.
 ![1-11](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3d3b5656-2f2e-4692-b124-1803fa6249fd)
+Then I used **SolidUnion** to combine the mattress and the bedboard.
 
 **Bed Legs**
 ![1-13](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e43d16df-4662-40bb-b74d-385f7db806f5)
+I used **Navigate** + **OffsetCurve** to find the four center point of the four bed legs. 
 ![1-14](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/810ded81-1d8e-4866-84bd-f9757a2ef345)
+I used **Discontinunity** + **Move** + **Line** to make the center line for all the four legs.
 ![1-15](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/8c6fcd0c-3e20-4728-a982-869196726321)
+Then I used **Pipe** and give it a **Fillet** to make the rounded ends. 
 
 **Pillow**
 ![1-16](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3666abd3-1d66-4d19-a2f3-32d0fb0d4d81)
@@ -40,6 +52,8 @@ I ultimately chose to go with Style 1, primarily because it would be **more mate
 ![1-21](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/19d3f7b7-819f-49d1-9a0c-87fe532855c0)
 ![1-22](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3d5dba0e-fea5-4360-8e3a-802f229fa565)
 ![1-23](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/81abfc80-752f-4174-aa98-c8d1bb5a011a)
+<img width="1295" alt="Screen Shot 2023-09-13 at 8 00 45 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6818c8e9-8492-4966-b9e0-cc7bb18166f4">
+This is how I made the pillow.
 
 **Duvet**
 ![1-24](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5a0255c6-86e1-4058-bb14-95386ef19c8a)
@@ -47,6 +61,31 @@ I ultimately chose to go with Style 1, primarily because it would be **more mate
 ![1-26](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/474e23f1-0122-48c6-a238-adbb0f085180)
 ![1-27](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5c3b2f9a-82f5-455a-b184-b6af416c39c0)
 ![1-28](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/2944f323-878e-4bdc-9730-d2498cb59625)
+<img width="1382" alt="Screen Shot 2023-09-13 at 8 00 35 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9a9c5943-7253-44c9-a6e5-04b39440ea31">
+This is how I made the duvet.
+
+### 3D printing
+![IMG_6956](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/55280a2a-4773-4082-835f-8d9e8f9e58b7)
+![IMG_6955](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/b93765af-3ce2-4ad2-9dea-c1b8a974e174)
+I tried to print the duvet, but it filed. The machine stopped during the middle and I have to restart it.
+
+![IMG_6954](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/21bdcfa7-b8a0-4497-9b72-246a1671fbb9)
+I printed the bed and the leg seperatly, and glue them together. So do not need a lot of support materials at the bottom. Also if I print them together, the staff told me that it is 99% going to failed.
+![IMG_6984](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/17659458-2a4a-4c2e-a16c-4bf49ff80a28)
+
+![IMG_6985](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/132975d8-d975-486e-bdf8-4d70b8709bdf)
+Showcase! Using it right now(waiting for the duvet)!
+
+
+### Conclusion
+
+Crafting my CAD model using Grasshopper was a journey, from beginning to end. At first I faced a learning curve since I had familiarity with the softwares various tools and functions. This posed challenges that sometimes felt overwhelming. I wasn't alone in my pursuit of a design. Thankfully I had access to guidance from sources. Online tutorials and forums helped me understand features while my peers shared hands on advice based on their experiences. The MakerPass Staff also provided expert knowledge offering suggestions for design and printing best practices.
+
+Navigating through these challenges was both. Enriching. Overcoming each obstacle and finding answers to my questions contributed to my growing proficiency in using Grasshopper. By the end of the project not did I successfully create an functional model but I also developed a newfound appreciation, for the intricacies of CAD design. The outcome was incredibly fulfilling validating all the time and effort invested. Alongside achieving my goal the entire process turned out to be immensely enjoyable—a combination of creativity, problem solving skills and technical expertise that made the final result even more satisfying.
+
+Engaging in the process of 3D printing brought me joy even though it wasn't smooth sailing. There was a moment when I faced a setback during the printing process, which was a bit disheartening. However I believed that the issue was more related, to the printer itself than any flaw in my design. This gave me the motivation to keep going. After troubleshooting and making adjustments I finally managed to print my physical model. Holding the outcome of my efforts, in my hands was an exhilarating experience. It felt incredibly rewarding to go from design sketches to a three dimensional object. This milestone also presented an opportunity for me to conduct tests and see firsthand how well my design addressed the problems I aimed to solve.
+
+The entire journey, starting from the concept and culminating in holding the product was a satisfying amalgamation of creativity, technical proficiency and problem solving skills. Experiencing that "aha moment" when my concept materialized into something was undoubtedly one of the highlights of this journey – it emphasized the value of every challenge and setback I overcame along the way.
 
 ### Speculation
 
