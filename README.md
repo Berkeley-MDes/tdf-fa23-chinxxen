@@ -1,3 +1,41 @@
+# Report 4: Setting Up My Photon 2 Device - Week of 09/21/2023 #
+
+This week, we had been introduced the concept of IoT and physical computing during Tuesday's lecture. As the homework, we went home and start working on getting to know more about the devices and set up our Photon 2. 
+
+### Connecting Photon 2 to My Laptop
+![IMG_7243](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3812db0a-3728-4e73-b7de-b470fa24bf5f)
+This was a simple step that connect my Photon 2 device to my Mac through a type-c wire. The Photon 2's LED started to indicated bright blue LED light to indiciate it is successfullly connected and powered by my Mac.
+
+### Setting Up Photon 2 @ Particle
+<img width="1355" alt="Screen Shot 2023-09-20 at 8 54 30 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6c0a15d6-7974-4199-879f-b5cd25481efa">
+<img width="1555" alt="Screen Shot 2023-09-20 at 9 50 06 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/3ec12df6-3456-4e42-8bc2-4615c0e4aa8e">
+
+<img width="1389" alt="Screen Shot 2023-09-20 at 8 54 39 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9a1bffb5-8f60-4416-ae82-865996581bbd">
+<img width="1679" alt="Screen Shot 2023-09-20 at 8 55 58 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/2454d193-eecd-4c58-888a-1192134b4708">
+<img width="1663" alt="Screen Shot 2023-09-20 at 8 56 48 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/7c929fb9-4f6b-41b1-91fd-a5ec4fab3c4c">
+<img width="1645" alt="Screen Shot 2023-09-20 at 8 56 58 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/cbd874f0-fbf6-45e2-83e4-c84ff69beca7">
+<img width="1657" alt="Screen Shot 2023-09-20 at 8 57 09 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5d34815e-1b1b-4304-bcc6-3e4a3b13b876">
+By following the steps given on the particle website, it was very easy to get my Photon 2 activated and set up by my home WIFI. 
+
+### Finding My Mac Address and Set Up Berkeley IoT Wifi
+<img width="1713" alt="Screen Shot 2023-09-20 at 9 03 43 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e732cc7f-4474-4565-8aac-022dc8410bdf">
+<img width="1686" alt="Screen Shot 2023-09-20 at 9 03 48 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e1a93333-28a5-48e3-9df7-995718df7f74">
+<img width="1712" alt="Screen Shot 2023-09-20 at 9 03 52 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/bef9b064-7aa8-486f-9e07-3ffcd4391c5a">
+Flashing the code successfully. 
+
+<img width="1721" alt="Screen Shot 2023-09-20 at 9 04 58 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/19d7ed75-5015-4900-919b-6b9e034666c6">
+Finding my Mac address.
+<img width="1348" alt="Screen Shot 2023-09-20 at 9 41 28 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ec607015-b84b-4284-808c-647b84e7fd70">
+Registered my device on Berkeley IoT. 
+
+Until this step, I had done with the 1-4 steps for getting my Photon 2 and is ready to start the next part on Thursday's class. 
+
+### Speculation
+In a version lets imagine a "Photon 2" that could revolutionize its usefulness and adaptability, in IoT applications. This could be achieved by focusing on two enhancements; integrated sensors and improved connectivity. By integrating sensors like temperature, humidity and motion detectors into the board itself the next gen Photon could become an all in one solution for projects eliminating the need for external sensor modules. This would simplify the setup process. Reduce the size of the system. Moreover by expanding its connectivity options beyond Wi Fi to include standards like BLE, Zigbee or LoRa it would seamlessly integrate into a wider range of IoT ecosystems. These advancements in sensor integration and versatile connectivity would make "Photon 2" a appealing choice for both hobbyists and professional IoT developers alike. It would greatly expand its practicality, across real world scenarios.
+
+---
+
+
 # Report 3: Designing My Own Phone Stand - Grasshopper + 3D Print - Week of 09/14/2023 #
 
 This week, I want to challenge myself. Even though I have 0 experiences with modeling with grasshopper before this class, but I have an idea that I really want to create. So, I designed and built a brand-new phone stand from scratch, tailoring it to my own specifications. After creating the CAD models, I 3D-printed prototypes to visualize the end result and conduct user testing.
