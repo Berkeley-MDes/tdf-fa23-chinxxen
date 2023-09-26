@@ -1,6 +1,19 @@
 # Report 5: Going Through the Photon Tutorials and Start Working with Circuit and Code - Week of 09/28/2023 #
 
+### Hello World Exercise
+<img width="1728" alt="Screen Shot 2023-09-21 at 5 43 32 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/31793491-f659-4367-93c8-c71a7c980728">
 
+### Blinking LED Exercise
+<img width="1728" alt="Screen Shot 2023-09-21 at 5 47 42 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/599645c6-7911-43a6-9628-35d8c302e17f">
+<img width="1458" alt="Screen Shot 2023-09-26 at 4 20 19 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/fa0fad46-7fdf-4f5d-82e9-d87f2c247af3">
+
+### AnalogRead Sensor Exercise
+<img width="1387" alt="Screen Shot 2023-09-26 at 4 21 54 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/861d7cbb-b00e-4cd8-9c21-29ae8e20fa98">
+<img width="1518" alt="Screen Shot 2023-09-26 at 4 22 01 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/dca2e21a-f9ba-4ec8-9387-f2e4ccf696b5">
+I was successful to use P2T_LED_LDR_V2 code to get my AnalogRead Sensor exercise successful working. 
+
+
+---
 
 # Report 4: Setting Up My Photon 2 Device - Week of 09/21/2023 #
 
