@@ -1,3 +1,7 @@
+# Report 5: Going Through the Photon Tutorials and Start Working with Circuit and Code - Week of 09/28/2023 #
+
+
+
 # Report 4: Setting Up My Photon 2 Device - Week of 09/21/2023 #
 
 This week, we had been introduced the concept of IoT and physical computing during Tuesday's lecture. As the homework, we went home and start working on getting to know more about the devices and set up our Photon 2. 
