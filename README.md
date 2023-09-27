@@ -7,11 +7,25 @@
 <img width="1728" alt="Screen Shot 2023-09-21 at 5 47 42 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/599645c6-7911-43a6-9628-35d8c302e17f">
 <img width="1458" alt="Screen Shot 2023-09-26 at 4 20 19 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/fa0fad46-7fdf-4f5d-82e9-d87f2c247af3">
 
+### Light up internal AND external LEDs
+![IMG_7299 2](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/1453dc06-d6d9-4b60-9d84-35ea34ab65fc)
+
 ### AnalogRead Sensor Exercise
 <img width="1387" alt="Screen Shot 2023-09-26 at 4 21 54 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/861d7cbb-b00e-4cd8-9c21-29ae8e20fa98">
 <img width="1518" alt="Screen Shot 2023-09-26 at 4 22 01 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/dca2e21a-f9ba-4ec8-9387-f2e4ccf696b5">
 I was successful to use P2T_LED_LDR_V2 code to get my AnalogRead Sensor exercise successful working. 
 
+### Conclusion
+This week, we worked through a sevral exercises to help us start working with Photon 2 and physcial computation. I had done a few of these exercise with Ardunio in the past, so it wasn't too difficult to me. I had them worked at the first try since the instructions was also really detailed and clear. During Thursday's class, we were thought on basic knowledge and was explained that how this thing works. This definetly helped me to understand the materials and start building this knowledge in my head. I cannot wait to see what I can make out of it. Unfortnely, I was sick of COVID during Tuesday's lecture, and I missed the guest speaker's presentation. However, I asked my cohorts about the materials that I might be missed and have them told me what the lecture was mainly about, so I was able to be on track with the course.
+
+### Speculation
+I have two ideas that pop-out of my head when I was working on the exercise.
+
+1. Smart Room Indicator
+Utilize the Photon 2 to determine room occupancy by employing a sensor such, as motion or infrared detection. Whenever the room is being used an LED positioned outside the room can illuminate. And possible applications could be that this concept might be beneficial in settings including office spaces, conference rooms or study areas within libraries.
+
+2. Plant Health Monitor
+Implement a soil moisture sensor to identify when a plant requires watering. Once the soil becomes dry the Photon 2 can activate an LED light as an indicator. This monitoring system finds its usefulness, in gardening, urban farming and smart home environments.
 
 ---
 
