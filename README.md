@@ -1,3 +1,77 @@
+# Report 6: Ideating Project 2 - Week of 10/04/2023 #
+
+This week, I re-covered from COVID and returned to class. Having missed the group formation session last week, I was on the lookout for a group to be a part of. Ultimately, I became a member of the clean tech team 2. Our discussions drew me in, especially their intriguing project on creating a survival tool for free-divers.
+
+### Researching and Ideating
+As a group, we started researching on the design problems.  
+
+**Freediving**
+Freediving, free-diving, free diving, breath-hold diving, or skin diving is a form of underwater diving that relies on breath-holding until resurfacing rather than the use of breathing apparatus such as scuba gear. Besides the limits of breath-hold, immersion in water and exposure to high ambient pressure also have physiological effects that limit the depths and duration possible in freediving.
+
+**Why People Have Risk to Drown During Free-Diving**
+1. Shallow Water Blackout
+Hypoxia: Prolonged breath-holding can lead to hypoxia, a state where the body doesn't get enough oxygen.
+Blackout: Low oxygen levels may cause a diver to blackout underwater, which can lead to drowning if they are unable to surface and breathe.
+2. Deep Water Blackout
+Pressure Changes: As divers go deeper, pressure increases and affects the air in the lungs and the absorption of oxygen and nitrogen.
+Narcosis: Deep water pressure can induce a state known as nitrogen narcosis, impairing cognitive function.
+Returning to shallower waters might cause a blackout due to rapid changes in partial pressures of oxygen.
+3. Samba
+Also known as loss of motor control (LMC), samba happens when there's not enough oxygen for the brain to function properly.
+Divers may experience involuntary muscle contractions and lose body control, potentially inhibiting their ability to surface safely.
+4. Barotrauma
+Equalization Issues: Failure to equalize pressure during descent or ascent can lead to ear and sinus injuries.
+Lung Over-Expansion: Rapid ascent without proper exhalation can lead to lung over-expansion and injury.
+
+**Free-Diving Safety Precautions: Buddy System**
+The buddy system is a fundamental safety principle in free-diving. Free-diving, also known as apnea diving or breath-hold diving, involves diving without the use of external breathing devices. Instead, divers rely solely on holding their breath. This activity presents its own set of risks, and as a result, the buddy system becomes an essential precaution to enhance safety. Here's how the buddy system is applied in free-diving safety:
+
+**How to measure oxygen saturation?**
+Healthy pulse oximeter values often range from 95% to 100%. Values under 90% are considered low.
+
+**Our Idea**
+We are looking forward to design a wearable vest (which should probably be integrated with the wet suit) with three parts- a small compression tank, an air vest, and a blood oxygen detector. When the free diver is in a normal free dive, the vest is not inflated, but when the vest detects that the free diver is unconscious underwater (Black out caused by low blood oxygen), the gas from the compressed air tank will be charged into the air vest, allowing the diver to return to the water surface in time.
+
+### Conclusion
+Our team has reached a consensus on our project direction, and research has confirmed the immediacy of the problem we aim to address. We're now primed to delve into the hardware phase.
+
+### Speculation
+
+**Inflatable Emergency Buoyancy Device for Free-Divers**
+
+**Wearable Design**
+The wearable can be designed as a slim belt or a wristband. It's essential for the wearable not to impede the diver's movements, considering the need for mobility during free-diving.
+
+**Detection Mechanism**
+A combination of sensors can be used:
+- **Depth sensor:** Determines if the diver remains at a specific depth for an extended period, indicating potential distress.
+- **Heart rate monitor:** Tracks sudden spikes or drops in heart rate which might indicate panic or unconsciousness.
+- **Oxygen sensor:** Monitors oxygen levels in the bloodstream. Reduced levels can hint at the onset of hypoxia.
+
+**Activation Mechanism**
+Upon distress detection:
+- **Manual Activation:** A button on the wearable for the diver or a buddy diver to trigger the pump manually.
+- **Automatic Activation:** The device auto-triggers the inflation if specific conditions like rapid ascent or prolonged inactivity are met.
+
+**Inflation Mechanism**
+When activated:
+- **Pump action:** The pump inflates a buoyancy bag or bladder using stored air or gas cartridges, facilitating quick surfacing of the diver.
+- **Safety Valve:** Ensures the bladder doesn't overinflate, preventing potential injury.
+
+**Deflation Mechanism**
+Once surfaced:
+- **Manual Release:** Allows for deflation and maintaining floatation without forced elevation above water.
+- **Automatic Deflation:** Slow air or gas release if the diver doesn't manually deflate the device after a certain surface time, preventing prolonged forced buoyancy.
+
+**Additional Features**
+- **LED or Strobe Light:** Ensures visibility, especially under low light conditions.
+- **Audible Alarm:** An attention-grabbing sound alert once surfaced.
+- **Communication System:** Sends distress signals or short messages to nearby entities or diving partners.
+
+
+
+---
+
 # Report 5: Going Through the Photon Tutorials and Start Working with Circuit and Code - Week of 09/28/2023 #
 
 ### Hello World Exercise
