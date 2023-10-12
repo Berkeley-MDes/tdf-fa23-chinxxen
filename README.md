@@ -1,4 +1,4 @@
-# Report 7: Life-saving Vest for Free-Diving - Week of 10/12/2023 #
+![WechatIMG279](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/288baeea-fa82-452b-87e2-12490284f8ae)# Report 7: Life-saving Vest for Free-Diving - Week of 10/12/2023 #
 
 We got the vest that included compressed air pumps. 
 ![WechatIMG272](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/930379aa-81ae-4d42-976b-a66a0ecaa936)
@@ -9,7 +9,10 @@ We started work on the circuit as a group.
 ![WechatIMG274](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/73c6516e-884d-4eb2-acb6-d5ccebfe3bc1)
 ![WechatIMG276](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/a38ef072-ca8f-43d6-8fcc-4a02ee545829)
 ![WechatIMG275](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/de9b26ba-2f69-4fa2-a7f1-d68de7be22e7)
-
+![WechatIMG280](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/be5b14f5-c97d-4296-a0a5-77f5a75327d9)
+![WechatIMG279](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/f3523005-7c7e-4789-b88e-b61342d7098c)
+![WechatIMG277](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d579a5c1-94ca-4a39-87af-0ccd1ea78bb9)
+![WechatIMG278](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e70a7804-9c04-4292-9c67-ac116158983d)
 
 ___
 
