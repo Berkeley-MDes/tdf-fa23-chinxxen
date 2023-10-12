@@ -1,3 +1,8 @@
+# Report 7: Life-saving Vest for Free-Diving - Week of 10/12/2023 #
+
+
+___
+
 # Report 6: Ideating Project 2 - Week of 10/04/2023 #
 
 This week, I re-covered from COVID and returned to class. Having missed the group formation session last week, I was on the lookout for a group to be a part of. Ultimately, I became a member of the clean tech team 2. Our discussions drew me in, especially their intriguing project on creating a survival tool for free-divers.
