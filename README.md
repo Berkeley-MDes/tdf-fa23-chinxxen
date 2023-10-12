@@ -6,7 +6,9 @@ We got the vest that included compressed air pumps.
 
 We started work on the circuit as a group.
 ![WechatIMG273](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/1bd29c26-a13e-40d4-86bd-9b1a6a89666b)
-
+![WechatIMG274](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/73c6516e-884d-4eb2-acb6-d5ccebfe3bc1)
+![WechatIMG276](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/a38ef072-ca8f-43d6-8fcc-4a02ee545829)
+![WechatIMG275](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/de9b26ba-2f69-4fa2-a7f1-d68de7be22e7)
 
 
 ___
