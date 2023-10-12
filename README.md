@@ -1,5 +1,13 @@
 # Report 7: Life-saving Vest for Free-Diving - Week of 10/12/2023 #
 
+We got the vest that included compressed air pumps. 
+![WechatIMG272](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/930379aa-81ae-4d42-976b-a66a0ecaa936)
+![WechatIMG269](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5bbd61e5-e3e6-4a5c-8443-fddb2972491c)
+
+We started work on the circuit as a group.
+![WechatIMG273](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/1bd29c26-a13e-40d4-86bd-9b1a6a89666b)
+
+
 
 ___
 
