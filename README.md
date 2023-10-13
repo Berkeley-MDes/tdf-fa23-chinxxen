@@ -4,6 +4,10 @@ We got the vest that included compressed air pumps.
 ![WechatIMG272](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/930379aa-81ae-4d42-976b-a66a0ecaa936)
 ![WechatIMG269](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/5bbd61e5-e3e6-4a5c-8443-fddb2972491c)
 
+We also got every components we need. 
+![WechatIMG287](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d492ffd7-6f2a-4dbd-bc89-9e99ad4d5b84)
+
+
 We started work on the circuit as a group.
 
 We tried Pulse Oximeters. 
