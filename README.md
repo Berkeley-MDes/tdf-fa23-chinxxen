@@ -20,6 +20,9 @@ We also tried Pulse Sensor.
 ![WechatIMG281](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e27edad1-78cd-4f6d-9796-e6a7ab395679)
 ![WechatIMG282](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/fe411af5-1b24-425f-ace1-fe4135c25b7e)
 
+We solder the Mini Pump to Motor drive controller. 
+![WechatIMG283](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ff24093c-1a97-43b9-a5ce-dae489e88c64)
+
 ___
 
 # Report 6: Ideating Project 2 - Week of 10/04/2023 #
