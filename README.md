@@ -1,6 +1,64 @@
 # Report 8: Pufferfish Lifesaver MADE! - Week of 10/19/2023 #
+This week, as a team, we dedicated lots of time to compose our project and make it to finsih for deliverable.
 
+**Research on Free Diving**
+Freediving involves underwater exploration where divers rely on holding their breath rather than using equipment like scuba tanks. Immersion in water combined with the challenges of breath-holding and increased underwater pressure influences the depths and duration divers can achieve.When a diver holds their breath for extended periods, they risk reaching a point where their body is deprived of adequate oxygen. This oxygen deficiency can potentially cause the diver to lose consciousness while submerged, a situation that could result in drowning if they don't manage to resurface in time. For safety, it's customary in freediving for participants to dive with a partner who can aid those suffering from such blackouts, ensuring they are brought back to the surface securely.
 
+However, some free divers prefer the solitude of diving solo.
+
+**Problem Statement**
+What approach can we adopt to guarantee the safety of a lone freediver, especially if they become unconscious underwater?
+
+**Proposed Solution**
+A specialized vest for freedivers equipped with a heart rate monitor. If the device detects an alarming decrease in heart rate, it triggers the vest to inflate automatically, thus propelling the unconscious diver to the water's surface promptly.
+**Project Goal**
+A cutting-edge life-vest has been designed with integrated technology, tailored specifically for the safety of divers. This vest is equipped with two photons, a pulse sensor, a vibration motor, a click switch, and a servo mechanism responsible for activating the vest's inflation.
+
+**Here's how it works:**
+Upon wearing the vest, the pulse sensor initiates a calibration phase, measuring the diver's regular pulse rate for the initial 10 seconds. This baseline reading serves as a reference for the system. If during the dive, the sensor detects a pulse rate deviating significantly from this baseline (indicating potential distress or unconsciousness), the vibration motor activates, serving as an alert to the diver.
+The diver then has a 10-second window to acknowledge this alert by pressing the click switch. If there's no response within this timeframe, it's assumed the diver might be in peril. The servo mechanism is then engaged, triggering the inflation process of the vest. This rapid inflation propels the diver upwards, ensuring they reach the surface promptly, potentially averting life-threatening scenarios.
+
+<img width="1387" alt="Screen Shot 2023-10-18 at 5 39 10 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ae4ae97b-76b6-4e0f-9dd1-88995fa1bd84">
+Here is our final circuit, including: **two photon** that communicate to each other, a **pulse sensor**, a **vibration motor**, a **click switch** and a **servo**. 
+
+<img width="907" alt="Screen Shot 2023-10-18 at 7 09 54 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/2af515d3-f4a2-47fe-82f3-30bcd09547d1">
+<img width="1587" alt="Screen Shot 2023-10-18 at 7 10 14 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d1ba1fcc-6b8b-4141-a2b3-40c538b807bd">
+
+A laser-cutted component attached to the servo to spin and pull the string that will trigger the air vest to blow.
+<img width="523" alt="Screen Shot 2023-10-18 at 7 14 31 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/f6362d64-9a88-4054-bd77-71fcd0f1545d">
+<img width="522" alt="Screen Shot 2023-10-18 at 7 14 37 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d42a1a7f-04f4-40f9-ba8c-7926346dd11c">
+
+**Problem**
+We had a problem that made us stuck for a while, which we cannot let our servo rotate, which we thought the code and circuit are correct. 
+<img width="1311" alt="Screen Shot 2023-10-18 at 7 11 07 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d127e1d9-95fd-41d8-ae02-0ef664ffc6dd">
+Then we changed 00 to 01 and change the circuit, and it works. 
+
+**Personal Reflection**
+Taking on this project was a choice I made, aware of the challenges it would bring. It turned out to be quite demanding. The rewards, both, in terms of growth and successfully completing the project made every obstacle worthwhile. The importance of teamwork became abundantly clear as we progressed. The success of our project relied on our ability to work together as a team. Our brainstorming sessions exemplified this as we collaborated to outline the steps and strategize the effective approaches to achieve our projects objectives. I am especially grateful for Gao Weilongs guidance. With his wealth of knowledge he provided me with the mentoring I required while navigating through the complexities of circuitry—a field that was relatively unfamiliar to me. There were moments when doubts crept in. Intricacies seemed insurmountable. However with the support and expertise of my teammates, cohorts and SHM we. Found our way. Our diverse knowledge pooled together resulted in a designed circuit—an embodiment of our efforts. Venturing into the realm of circuits and photons felt like embarking on a journey, into territory. The steep learning curve often felt overwhelming.At every step I encountered layers of complexity that tested my understanding and patience.. With each challenge overcome, my knowledge. My appreciation, for this intricate field deepened.
+My role extended beyond the aspects. I also had the opportunity to contribute to the side of our project. Specifically I played a part in designing components that needed to be attached to the servo. These components had a function of pulling a string, which was essential for the projects intended operation. Understanding the significance of precision and durability in this context I took charge of laser cutting these components. It was vital that they seamlessly integrated into our project. I'm proud to say my efforts ensured that. Looking back on this project it served as a milestone, in my learning and collaboration journey. The challenges we faced the teamwork involved both our successes and failures have enriched me in ways.
+
+**Speculations**
+1. **Increased Adoption**
+   - The initial success of this life-saving vest could lead to its use among the free diving community. We may witness schools, professionals, and enthusiasts alike embracing it as a standard safety precaution.
+
+2. **Improved Technological Integration**
+   - As technology advances, the life-saving vest could incorporate sensors. For example, depth sensors to determine the diver's depth or even a system that measures CO2 buildup. This would provide a comprehensive safety measure by predicting potential dangers even before irregularities in heart rate occur.
+
+3. **Data Collection and Analysis**
+   - With each dive, data on heart rates, depths reached, and dive durations can be collected. This pool of data could offer insights into the physiological challenges faced by divers, facilitating the refinement of training programs and improvement of diving techniques.
+
+4. **Connectivity**
+   - In the era of IoT (Internet of Things), the life-saving vest could be designed to send real-time alerts to boats or dive instructors on land in case of emergencies. It could also sync with devices like smartwatches or smartphones, providing divers with an all-encompassing dive log and health metrics at their fingertips.
+
+5. **Material Advancements**
+   - While our current design mainly focuses on functionality, future versions could incorporate materials to improve buoyancy, decrease resistance in the water, or even offer camouflage options for divers who are interested in underwater photography or marine research.
+
+6. **Affordability and Accessibility**
+   - Similar to other technology-driven solutions, there is a trajectory that leads to cost-effectiveness. As time progresses and production scales up, these lifejackets may become more affordable, ensuring that a larger portion of the diving community can access this life-saving tool.
+
+7. **Environmental Considerations**
+   - In the future, we should also consider the impact of lifejackets on marine ecosystems. Exploring environmentally friendly materials could ensure not only the safety of divers but also protect the oceanic environments they hold dear.
+     
 
 
 # Report 7: Life-saving Vest for Free-Diving - Week of 10/12/2023 #
