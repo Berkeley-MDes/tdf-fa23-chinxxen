@@ -5,7 +5,8 @@ I had successfully setted up my account for zero width.
 <img width="1715" alt="Screen Shot 2023-10-25 at 9 52 18 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/264f4565-3c67-41bf-81b2-68b083c5f30c">
 Then I created a new project on zero width for my third project.
 
-**Ideate**
+**_Ideating the project_**
+
 **Job Matching and Skill Development" project**
 **Project Overview**
 The objective is to create an advanced AI-driven Career Enhancement and Opportunity Network (CEON) that not only matches candidates to suitable job opportunities but also aids in their professional development by identifying skill gaps and suggesting relevant educational resources.
