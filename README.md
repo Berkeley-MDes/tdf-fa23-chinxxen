@@ -6,8 +6,24 @@ I had successfully setted up my account for zero width.
 Then I created a new project on zero width for my third project.
 
 **Ideate**
+**Job Matching and Skill Development" project**
+**Project Overview**
+The objective is to create an advanced AI-driven Career Enhancement and Opportunity Network (CEON) that not only matches candidates to suitable job opportunities but also aids in their professional development by identifying skill gaps and suggesting relevant educational resources.
 
+**Comprehensive Profile Building**
+Resume Parsing: Utilize NLP to extract relevant information from users’ resumes and build detailed professional profiles.
+Skill Assessment: Incorporate quizzes, tests, or integrations with platforms like LinkedIn to validate and assess the user’s skills.
+Preference Elicitation: Gather data on user preferences regarding company culture, work-life balance, location, and other factors.
 
+**Comprehensive Profile Building**
+Resume Parsing: Utilize NLP to extract relevant information from users’ resumes and build detailed professional profiles.
+Skill Assessment: Incorporate quizzes, tests, or integrations with platforms like LinkedIn to validate and assess the user’s skills.
+Preference Elicitation: Gather data on user preferences regarding company culture, work-life balance, location, and other factors.
+
+**Job Matching Algorithm**
+Skill and Experience Matching: Create algorithms that match users to job opportunities based on their skills, experience, and educational background.
+Cultural Fit Assessment: Analyze company profiles and user preferences to ensure a good cultural fit.
+Continuous Learning: Implement machine learning to continuously improve matching accuracy based on user feedback and successful placements.
 
 # Report 8: Pufferfish Lifesaver MADE! - Week of 10/19/2023 #
 This week, as a team, we dedicated lots of time to compose our project and make it to finsih for deliverable.
