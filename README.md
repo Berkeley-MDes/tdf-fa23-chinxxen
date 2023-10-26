@@ -1,3 +1,14 @@
+# Report 9: Setting up account - Week of 10/26/2023 #
+
+I had successfully setted up my account for zero width.
+<img width="1728" alt="Screen Shot 2023-10-25 at 9 22 22 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/964410f3-e1c4-4b29-a743-6172bc36f6e8">
+<img width="1715" alt="Screen Shot 2023-10-25 at 9 52 18 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/264f4565-3c67-41bf-81b2-68b083c5f30c">
+Then I created a new project on zero width for my third project.
+
+**Ideate**
+
+
+
 # Report 8: Pufferfish Lifesaver MADE! - Week of 10/19/2023 #
 This week, as a team, we dedicated lots of time to compose our project and make it to finsih for deliverable.
 
