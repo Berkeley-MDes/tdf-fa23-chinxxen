@@ -1,5 +1,4 @@
-# Report 10: Mini Carina - Week of 10/31/2023 #
-
+# Report 10: Mini Carina - Week of 11/02/2023 #
 
 I began my journey by delving into zero-width exploration. I took the initiative to craft my own intelligent entity, which I christened ‘Mini Carina.’ Engaging in interactions with the chatbot, I observed that its responses were strikingly similar to what I would receive directly from ChatGPT. Noticing this, I decided to proceed to the instructions section and crafted a set of directives titled ‘Background of Me,’ where I provided intricate details about myself without linking to any external knowledge. Now, as evident, the chatbot is capable of responding in a manner akin to a twin sibling of mine.
 
