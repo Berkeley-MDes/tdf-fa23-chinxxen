@@ -1,3 +1,26 @@
+# Report 10: Mini Carina - Week of 10/31/2023 #
+
+
+I began my journey by delving into zero-width exploration. I took the initiative to craft my own intelligent entity, which I christened ‘Mini Carina.’ Engaging in interactions with the chatbot, I observed that its responses were strikingly similar to what I would receive directly from ChatGPT. Noticing this, I decided to proceed to the instructions section and crafted a set of directives titled ‘Background of Me,’ where I provided intricate details about myself without linking to any external knowledge. Now, as evident, the chatbot is capable of responding in a manner akin to a twin sibling of mine.
+
+Then I proceeded to tackle the homework, employing the same approach I had utilized for each of my weekly submissions, inputting them separately into the instructions. However, the chatbot failed to comprehend my message and could not provide answers to any of the four posed questions. In response, I decided to consult the tutorial and embarked on creating my own knowledge database.
+
+Opting for a slightly different strategy, I chose to amalgamate the first two projects: the computational design project and the digital ecosystem project, into two distinct knowledge sets. I then linked each of these to specific instructions, ensuring that when I inquired about the two key phrases, 'computational design project' and 'digital ecosystem project,' the chatbot would retrieve the relevant information from the respective knowledge sets. This modification proved to be successful, as I was subsequently able to obtain answers to all four questions with the help of GPT.
+<img width="1728" alt="Screen Shot 2023-10-25 at 9 22 22 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6edd4fd7-b4ff-46f2-8933-32a390f20031">
+<img width="1727" alt="Screen Shot 2023-10-28 at 10 21 11 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/7c5c7aeb-299a-4cf8-bebd-a1eb9d677884">
+<img width="1728" alt="Screen Shot 2023-10-28 at 10 39 05 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/93054a1f-a8d6-44dc-8921-f84bb3eb3c24">
+<img width="1728" alt="Screen Shot 2023-10-28 at 10 38 49 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/21336ef0-0076-4474-8bbe-957dfd418be4">
+<img width="1728" alt="Screen Shot 2023-10-28 at 10 38 54 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/d8125c28-f210-4381-8f5a-6dc3e669a386">
+<img width="1728" alt="Screen Shot 2023-10-28 at 10 38 57 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/32521c7d-838c-41bd-b4f6-7ee61002743f">
+<img width="1728" alt="Screen Shot 2023-10-28 at 10 39 03 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/1602022d-7f99-46e4-879a-c2dd95d7ab23">
+<img width="1724" alt="Screen Shot 2023-10-28 at 9 39 05 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9a600234-e932-4e57-acf9-c0e588f2823b">
+
+**Spculations**
+Looking ahead, I’m truly enthusiastic about how this technology could transform Job Matching and Skill Development. Imagine a sophisticated AI-driven Career Enhancement and Opportunity Network (CEON), capable of meticulously building comprehensive user profiles. By employing Natural Language Processing to analyze resumes and validate skills through tests, quizzes, and LinkedIn integrations, we can ensure a holistic understanding of each user’s professional landscape. 
+
+Moreover, we take into account personal preferences regarding company culture, work-life balance, and preferred location to guarantee a match that goes beyond mere job descriptions. Our AI algorithms are designed to ensure not just a skills match, but also a cultural fit, learning and adapting continuously through machine learning. This ensures ever-improving accuracy in our matches, making the most out of user feedback and successful job placements. With CEON, we're not just filling positions; we're paving the way for fulfilling career journeys.
+
+
 # Report 9: Setting up account - Week of 10/26/2023 #
 
 I had successfully setted up my account for zero width.
