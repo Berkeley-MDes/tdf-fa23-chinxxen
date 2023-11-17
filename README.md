@@ -1,3 +1,7 @@
+# Report 12: Final Project Team Up + Start working - Week of 11/16/2023 #
+
+s
+
 # Report 11: Final Project Brainstorm - Week of 11/09/2023 #
 
 Project Name: Interactive Ecosystem for Connected Living
