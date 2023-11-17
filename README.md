@@ -1,6 +1,25 @@
 # Report 12: Final Project Team Up + Start working - Week of 11/16/2023 #
 
-s
+On Monday's project fair, we had shared our project proposal and chat around to see if cohorts would like to team up. 
+
+This was my proejct proposal. 
+<img width="1101" alt="Screen Shot 2023-11-17 at 1 23 01 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/883c35c7-05eb-4476-bd55-866de19debdf">
+<img width="1101" alt="Screen Shot 2023-11-17 at 1 23 05 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4b2d34cf-ac53-4afa-aefc-2e4592b10ad8">
+<img width="1095" alt="Screen Shot 2023-11-17 at 1 23 10 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/e9df60ef-eb96-4dff-ae2c-5dd4c942ba1b">
+<img width="1097" alt="Screen Shot 2023-11-17 at 1 23 19 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/dcda207c-0e40-483a-a3a8-f6568971134a">
+<img width="1099" alt="Screen Shot 2023-11-17 at 1 23 24 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/44811751-329c-4cc0-9f79-f4dff38d486a">
+<img width="1097" alt="Screen Shot 2023-11-17 at 1 23 28 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/bab471bd-e461-4001-a902-94f783cfa455">
+<img width="1094" alt="Screen Shot 2023-11-17 at 1 23 33 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/35a71a0b-e74c-416f-925f-1f23142d4235">
+
+After talking to Yuhe Niu and Xinyu Qu, we decided to worked together for the final project, since we had very similar concept. We decided our final project is to create a "cyber dreamcatcher". Which is a physical device that user can use to record what they remember from the dream, and it will genrate a image based on user's description. 
+
+We then devide the work, Nancy start working on conencting Api and phyton, Xinyu works on writing the phyton code, and I am working on training Ai language model and used it to generate consistent illustration. 
+
+<img width="1728" alt="Screen Shot 2023-11-16 at 9 32 42 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/07d25b6f-31a9-41da-aae4-d3a3e459bfe8">
+<img width="1728" alt="Screen Shot 2023-11-16 at 9 32 49 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/dea9bb16-6436-48b6-9058-26b29ca10f13">
+<img width="827" alt="Screen Shot 2023-11-16 at 9 37 27 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6926b4cc-acb8-451f-b455-ffd25f78f778">
+<img width="1580" alt="Screen Shot 2023-11-16 at 9 53 59 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/c0294c2c-88f3-4ac9-839b-eb586bb2c9be">
+
 
 # Report 11: Final Project Brainstorm - Week of 11/09/2023 #
 
