@@ -1,3 +1,27 @@
+# Report 13: Working of Dream Weaver - Week of 11/16/2023 #
+
+I was training on Dream Weaver this Week + Working on the CAD for out physical Dream Weaver.
+
+<img width="1076" alt="Screen Shot 2023-11-22 at 11 25 21 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/393ecdcf-19c7-4724-90c7-87a6db50426f">
+<img width="1067" alt="Screen Shot 2023-11-22 at 11 25 13 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/c3bf9ab1-9af6-4670-9755-36cd001381c5">
+<img width="1728" alt="Screen Shot 2023-11-22 at 4 06 17 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/a96e5e6c-30a5-4534-a762-b17480b1be1f">
+<img width="1078" alt="Screen Shot 2023-11-22 at 11 24 52 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9abfd751-09f1-4726-9537-04acb610c3a3">
+<img width="1728" alt="Screen Shot 2023-11-22 at 4 06 24 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/2660c676-3892-4000-9adc-a5dc2ed89d3b">
+<img width="1082" alt="Screen Shot 2023-11-22 at 11 20 01 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/73bcf139-a60a-42fa-8716-f7b1710f36fb">
+<img width="1726" alt="Screen Shot 2023-11-22 at 1 31 32 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/ec433323-7ca9-4090-9dae-f88e6b447644">
+<img width="1726" alt="Screen Shot 2023-11-22 at 1 31 26 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/b74040ab-bdec-4fcb-bc4c-8a92e72f35d7">
+
+
+CAD
+
+<img width="904" alt="Screen Shot 2023-11-23 at 3 59 10 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/0524715e-5b2d-44fe-8d4c-491f5d923c9c">
+<img width="933" alt="Screen Shot 2023-11-23 at 4 14 14 AM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/140c6503-5122-4b54-9553-52a9f4e19252">
+<img width="810" alt="Screen Shot 2023-11-23 at 4 42 18 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6b152800-a390-4382-bd3d-6b370bc12bc9">
+<img width="926" alt="Screen Shot 2023-11-23 at 4 42 37 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/f3c9f4d6-1ea2-45bf-a936-6807abdf5a9a">
+<img width="746" alt="Screen Shot 2023-11-23 at 4 42 45 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/77d9e2f1-7491-4b17-bc91-13e64a7643d9">
+
+Nancy and Xinyu arw working on the Ardunio + Coding to connect the GPT and Photon together. 
+
 # Report 12: Final Project Team Up + Start working - Week of 11/16/2023 #
 
 On Monday's project fair, we had shared our project proposal and chat around to see if cohorts would like to team up. 
