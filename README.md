@@ -1,4 +1,14 @@
-# Report 13: Working of Dream Weaver - Week of 11/16/2023 #
+# Report 14: Wrapping up Dream Weaver - Week of 11/30/2023 #
+This week, under our hardwork, We finally got everything works! Now our photon can do Remote transmission to get the signal from gpt. 
+
+To conncet photon with Ai:
+<img width="803" alt="8dbbc5a215dc68a5cd8dcc7abbf5a067" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/2c36e4cf-b204-46c9-801d-1c12b97c818d">
+
+Harware Part: 
+Use two buttons to control the start and end of the PDM mic recording, then use Sdfat, RTC library to let the photon do the arithmetic part, and then through the data logging feather wing to generate a wav format file stored on the sd card. Hardware process from soldering, connecting, code testing several processes to complete the prototyping and testing.
+![81ffde5e5afb0cc48d08de0e42583d9e](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/21536bdb-3873-4672-9a04-d5a63d9fc806)
+
+# Report 13: Working of Dream Weaver - Week of 11/23/2023 #
 
 I was training on Dream Weaver this Week + Working on the CAD for out physical Dream Weaver.
 
