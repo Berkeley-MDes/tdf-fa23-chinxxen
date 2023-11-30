@@ -8,6 +8,11 @@ Harware Part:
 Use two buttons to control the start and end of the PDM mic recording, then use Sdfat, RTC library to let the photon do the arithmetic part, and then through the data logging feather wing to generate a wav format file stored on the sd card. Hardware process from soldering, connecting, code testing several processes to complete the prototyping and testing.
 ![81ffde5e5afb0cc48d08de0e42583d9e](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/21536bdb-3873-4672-9a04-d5a63d9fc806)
 
+3D printed Physical Model: 
+![IMG_1517](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/296e21a3-2817-41e1-9846-f9c2d0d8959e)
+![1bf00a8b75b8c29eb3ed79e9928aa187](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/6b8b5c14-6c69-4fa1-9754-e744f975f9bd)
+
+
 # Report 13: Working of Dream Weaver - Week of 11/23/2023 #
 
 I was training on Dream Weaver this Week + Working on the CAD for out physical Dream Weaver.
