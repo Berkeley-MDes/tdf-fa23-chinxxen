@@ -1,3 +1,34 @@
+# Report 15: Dream Weaver Done! - Week of 12/07/2023 #
+This week, as a team, we made everything comes true. 
+
+First we integrated the hardware part and ai. And have muiltiple testing. 
+
+Record user's voice. 
+<img width="1723" alt="Screen Shot 2023-12-06 at 4 52 25 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/9b5d9cb6-f292-48f5-bdc3-2f049735b76e">
+
+Succeessfully saved the recording. 
+<img width="1728" alt="Screen Shot 2023-12-06 at 4 52 38 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/a5f53fbe-0417-46d8-aa0e-ac81f68ecf4f">
+
+Recording to voicetotext generator.
+<img width="1728" alt="Screen Shot 2023-12-06 at 4 52 47 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/57fd7595-237c-487a-85c4-23c34fa34386">
+
+text sent to gpt to generate story and prompt. 
+<img width="1728" alt="Screen Shot 2023-12-06 at 4 53 04 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4469d19c-b1b5-4b93-b2d5-c7bbeb24802c">
+
+prompt sent to dall.e to generate image. 
+<img width="1728" alt="Screen Shot 2023-12-06 at 4 53 11 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/fc355331-b071-4423-943a-bdfab4d68ec3">
+
+image generated successfully!
+<img width="1546" alt="Screen Shot 2023-12-06 at 4 54 15 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/1dbd6645-13be-4708-9e9e-eff656667769">
+
+Integrate hardware with 3-D printed model.
+![IMG_1639](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/0b438eac-4d4f-4c9f-bf74-0177d260a51c)
+![IMG_1656](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4d89cb3e-ba4e-4b24-b717-31c8e2e8570e)
+![IMG_1658 2](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/7209666b-efe8-43cf-a374-2230f5e127c8)
+![IMG_1660](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/4c4d1d1a-14dc-4cb8-8ef1-9ed30ac2afb4)
+![IMG_1679](https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/bdb2c9d3-0f59-40bc-a93a-14710aa3866e)
+
+
 # Report 14: Wrapping up Dream Weaver - Week of 11/30/2023 #
 This week, under our hardwork, We finally got everything works! Now our photon can do Remote transmission to get the signal from gpt. 
 
@@ -15,7 +46,7 @@ Use two buttons to control the start and end of the PDM mic recording, then use 
 
 # Report 13: Working of Dream Weaver - Week of 11/23/2023 #
 
-I was training on Dream Weaver this Week + Working on the CAD for out physical Dream Weaver.
+As a team this week, we worked on training on Dream Weaver personalized Ai model this Week, also working on the coding to integrated the two ai + Working on the CAD for out physical Dream Weaver.
 
 <img width="1076" alt="Screen Shot 2023-11-22 at 11 25 21 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/393ecdcf-19c7-4724-90c7-87a6db50426f">
 <img width="1067" alt="Screen Shot 2023-11-22 at 11 25 13 PM" src="https://github.com/Berkeley-MDes/tdf-fa23-chinxxen/assets/143020823/c3bf9ab1-9af6-4670-9755-36cd001381c5">
